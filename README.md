@@ -1,5 +1,7 @@
 # DB Assignment
 
+### Made by the group Pejomi (Peter, Jonas and Mie)
+
 This is a project to present the solutions for the DB assignments. The project is divided into the three parts of the assignment: MySQL, MongoDB, and Neo4j. 
 
 The project is a web application that uses React to present the solutions for the assignments.

@@ -9,6 +9,8 @@ The project is a web application that uses React to present the solutions for th
 ## 📌 MSSQL
 To read the solution for the MSSQL part of the assignment, check the [DB-assignments 01.pdf](/DB-assignments%2001.pdf) file or start the project and navigate to the MSSQL part of the assignment.
 
+## 📌 MongoDB
+To read the solution for the MongoDB part of the assignment, check the [DB-assignments 02.pdf](/DB-assignments%2002.pdf) file or start the project and navigate to the MongoDB part of the assignment.
 
 ## Starting the project
 

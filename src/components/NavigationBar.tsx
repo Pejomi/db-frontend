@@ -18,6 +18,10 @@ const NavigationBar = () => {
                                 MSSQL
                                 <Link to="/mssql" />
                             </Menu.Item>
+                            <Menu.Item key="3" icon={<FolderOutlined />}>
+                                MongoDB
+                                <Link to="/mongodb" />
+                            </Menu.Item>
                         </Menu>
                     </Col>
                 </Row >

@@ -12,6 +12,9 @@ To read the solution for the MSSQL part of the assignment, check the [DB-assignm
 ## 📌 MongoDB
 To read the solution for the MongoDB part of the assignment, check the [DB-assignments 02.pdf](/DB-assignments%2002.pdf) file or start the project and navigate to the MongoDB part of the assignment.
 
+## 📌 Neo4j
+To read the solution for the Neo4j part of the assignment, check the [DB-assignments 03.pdf](/DB-assignments%2003.pdf) file or start the project and navigate to the Neo4j part of the assignment.
+
 ## Starting the project
 
 1. In the project directory, you run:  `npm start`

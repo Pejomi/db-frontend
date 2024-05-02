@@ -22,6 +22,10 @@ const NavigationBar = () => {
                                 MongoDB
                                 <Link to="/mongodb" />
                             </Menu.Item>
+                            <Menu.Item key="4" icon={<FolderOutlined />}>
+                                Neo4j
+                                <Link to="/neo4j" />
+                            </Menu.Item>
                         </Menu>
                     </Col>
                 </Row >
